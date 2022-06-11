@@ -1,0 +1,19 @@
+.blog-container {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 20px;
+    padding: 10px;
+    padding-left: 50px;
+    margin: 10px;
+    border-radius: 20px;
+    width: auto;
+}
+
+.huge {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.blg-lst {
+    margin: 20px;
+}
